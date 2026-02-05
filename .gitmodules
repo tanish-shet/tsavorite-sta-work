@@ -1,3 +1,6 @@
 [submodule "memory-data-extraction"]
 	path = memory-data-extraction
 	url = git@github.com:tanish-shet/memory-data-extraction.git
+[submodule "ip-data-extraction"]
+	path = ip-data-extraction
+	url = git@github.com:tanish-shet/ip-data-extraction.git
